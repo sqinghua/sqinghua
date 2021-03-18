@@ -3,6 +3,7 @@
 - 🌱 I’m currently pursuing Ph.D of Design
 - 💞️ I’m looking to collaborate on ...
 - 📫 sunqh7@sjtu.edu.cn
+- 📝cv：https://sqinghua.github.io/
 
 <!---
 sqinghua/sqinghua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
