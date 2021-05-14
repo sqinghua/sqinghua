@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sqinghua
-- 👀 I’m interested in UxD & Data-Driven Design
-- 🌱 I’m currently pursuing Ph.D of Design
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in UxD, information interaction,and Aethestic Design
+- 🌱 I’m Ph.D candidate of Design in Shanghai Jiao Tong university
+- 💞️ I’m looking to collaborate with other majors who interested in my research direction
 - 📫 sunqh7@sjtu.edu.cn
 - 📝cv：https://sqinghua.github.io/
 
