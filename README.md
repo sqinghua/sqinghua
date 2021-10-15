@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sqinghua
 - 👀 I’m interested in UxD and Design computation
-- 🌱 I’m Ph.D candidate of Design in Shanghai Jiao Tong university
+- 🌱 Ph.D candidate of Design in Shanghai Jiao Tong university
 - 📝 https://sqinghua.github.io/
 - 📫 sunqh7@sjtu.edu.cn
 <!---
