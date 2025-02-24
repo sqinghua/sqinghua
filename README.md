@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sqinghua
-- 👀 I’m interested in NLP and computational design
+- 👀 I’m interested in computational design 
 - 🌱 Ph.D candidate of Design in Shanghai Jiao Tong University
 - 📫 sunqh7@sjtu.edu.cn
 - 📝 https://sqinghua.github.io/
